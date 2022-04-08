@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "hari/pw-module": "~1.0",
+        "wireframe-framework/processwire-composer-installer": "^1.1",
         "twig/twig": "^3.0",
         "wanze/template-engine-factory": "^2.0"
     },
